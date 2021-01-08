@@ -91,3 +91,9 @@ button,
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
+#amiibos{
+    background: url(../img/bg-01.png),url(../img/bg-03.png);
+    background-repeat: no-repeat, repeat;
+    background-position: bottom center, center center;
+    background-size: 100%, auto;
+}
