@@ -98,3 +98,11 @@ button,
   background-position: bottom center, center center;
   background-size: 100%, auto;
 }
+
+.amiibo {
+  cursor: pointer;
+  transition: all ease-out 0.2s;
+}
+.amiibo:hover {
+  transform: scale(1.05);
+}
